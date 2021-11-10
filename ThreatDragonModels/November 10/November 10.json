@@ -1,9 +1,14 @@
 {
   "summary": {
-    "title": "November 10"
+    "title": "November 10",
+    "owner": "Victor"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Victor Tulabot"
+      }
+    ],
     "diagrams": [
       {
         "title": "Threat Model",
