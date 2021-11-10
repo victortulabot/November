@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "title": "Threat Model",
+    "owner": "Victor"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Victor Tulabot"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Threat Model",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
